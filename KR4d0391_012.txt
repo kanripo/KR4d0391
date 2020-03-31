@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 晞髮集
-#+DATE: 2020-03-31 11:34:58.742134
+#+DATE: 2020-03-31 11:34:58.830788
 #+PROPERTY: ID KR4d0391
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 12
 <pb:KR4d0391_WYG_012-1a>¶
 　　欽定四庫全書¶
@@ -505,7 +505,7 @@
 　　訪隠者不遇　　　　　　東窗吳子文¶
 ¶
 　　道人入山訪道人山深俗朴雞犬馴道人不見道人去¶
-&KR2513;𣯶草木無邊春¶
+&KR2513;毶草木無邊春¶
 ¶
 　　采菊　　　　　　　　　竹坡韓(闕)¶
 ¶

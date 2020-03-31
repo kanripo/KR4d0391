@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 晞髮集
-#+DATE: 2020-03-31 11:34:58.722711
+#+DATE: 2020-03-31 11:34:58.811059
 #+PROPERTY: ID KR4d0391
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 8
 <pb:KR4d0391_WYG_008-1a>¶
 　　欽定四庫全書¶
@@ -76,7 +76,7 @@
 　　桐華¶
 ¶
 　　隨風泊釣楂弄日色侵霞燒地不鋤草荒池舊漚麻偶¶
-尋僧坐石見落鳥銜花𩛿粥春寒後多逢棟樹家¶
+尋僧坐石見落鳥銜花餳粥春寒後多逢棟樹家¶
 ¶
 <pb:KR4d0391_WYG_008-3b>¶
 　　僧池青蛙¶

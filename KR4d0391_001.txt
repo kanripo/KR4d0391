@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 晞髮集
-#+DATE: 2020-03-31 11:34:58.687689
+#+DATE: 2020-03-31 11:34:58.781819
 #+PROPERTY: ID KR4d0391
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 1
 <pb:KR4d0391_WYG_001-1a>¶
 　　欽定四庫全書¶
@@ -123,7 +123,7 @@
 ¶
 　　版圖歸歸職方昔服跗注備戎行帝錫之斾龍鳥章酧¶
 獻命與胥今上及秦王外臣拜稽首笑頷帝色康畢同¶
-䡄來於梁&KR0747;靈奕奕敷重光願止劒履覲帯裳四海臣¶
+䡄來於梁曄靈奕奕敷重光願止劒履覲帯裳四海臣¶
 <pb:KR4d0391_WYG_001-6a>¶
 妾配虞唐¶
 ¶

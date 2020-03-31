@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 晞髮集
-#+DATE: 2020-03-31 11:34:58.718194
+#+DATE: 2020-03-31 11:34:58.806501
 #+PROPERTY: ID KR4d0391
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 7
 <pb:KR4d0391_WYG_007-1a>¶
 　　欽定四庫全書¶
@@ -251,7 +251,7 @@
 　　除夜聞雷¶
 ¶
 　　牢落長為客殘年獨擁衾燈分寒夜火雨過震餘隂搗¶
-藥滋𤣥髪書符&KR0773;黒祲相㸔故鄉淚不敢效吳音¶
+藥滋𤣥髪書符厭黒祲相㸔故鄉淚不敢效吳音¶
 ¶
 ¶
 ¶
